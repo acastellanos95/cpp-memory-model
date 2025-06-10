@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/andre/projects/cpp-memory-model/1-class-layout-alignment",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/Layout.dir/main.cpp.o -c /home/andre/projects/cpp-memory-model/1-class-layout-alignment/main.cpp",
+  "file": "/home/andre/projects/cpp-memory-model/1-class-layout-alignment/main.cpp",
+  "output": "CMakeFiles/Layout.dir/main.cpp.o"
+}
+]
