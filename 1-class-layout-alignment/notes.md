@@ -83,7 +83,3 @@ So now it makes sense what the memory shows:
 + 8 bytes      |  d |   | -------------------- dPadding ------------------- |
 0x7fffffffd640:	0x68	0x00	0x00	0x00	0x00	0x00	0x00	0x00
 ```
-
-We can even specify the alignment for classes, data members and variables using `alignas`. Of course there is a lot of 
-rules on how to use it, but a real application is to use it as a SIMD register type. Let's try my favorite, a image
-convolution acceleration.
