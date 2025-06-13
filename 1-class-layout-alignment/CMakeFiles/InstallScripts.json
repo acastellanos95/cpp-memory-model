@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/andre/projects/cpp-memory-model/1-class-layout-alignment/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

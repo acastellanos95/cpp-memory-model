@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/Layout.dir/link.d CMakeFiles/Layout.dir/main.cpp.o -o Layout
